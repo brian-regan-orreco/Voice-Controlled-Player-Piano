@@ -1,3 +1,18 @@
+#Everything in songs folder and library
+*.mp3
+*.mid
+library.txt
+
+#Extra files
+main2.py
+piano.py
+test.py
+voiceCommands.py
+
+#Executable Python files
+__pycache__
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

@@ -1,6 +1,6 @@
 # Voice Controlled Player Piano
 
-Inspired by the player piano from Westworld and Amazon's Alexa, the aim of this project is to create the software for the voice control of a player piano. Specifically, testing shall be done on a raspberry pi connected to a Yamaha DGC1MM4 Disklavier Grand Piano via USB cable.
+Inspired by the player piano from Westworld and Amazon's Alexa, the aim of this project is to create the software for the voice control of a player piano. Specifically, testing shall be done on a raspberry pi connected to a [Yamaha DGC1MM4 Disklavier Grand Piano](http://usa.yamaha.com/product_archive/keyboards/dgc1mm4_pe/?mode=model) via USB cable.
 
 ## Getting Started
 
